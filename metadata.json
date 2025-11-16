@@ -1,0 +1,5 @@
+{
+  "name": "Smart Agriculture IoT Simulator",
+  "description": "An AI-driven design tool to conceptualize and simulate a smart agriculture system. List necessary IoT sensors, propose AI models for crop yield prediction, and generate data flow diagrams.",
+  "requestFramePermissions": []
+}
